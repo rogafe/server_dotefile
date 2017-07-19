@@ -1,4 +1,4 @@
-source /root/.antigen/antigen.zsh
+source ~/.antigen/antigen.zsh
 
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
@@ -17,7 +17,7 @@ antigen bundle zsh-users/zsh-syntax-highlighting
 #antigen theme robbyrussell
 #antigen theme XsErG/zsh-themes themes/lazyuser
 #antigen theme funky
-antigen theme candy
+antigen theme bs
 
 
 # Tell antigen that you're done.
