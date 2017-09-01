@@ -17,7 +17,7 @@ antigen bundle zsh-users/zsh-syntax-highlighting
 #antigen theme robbyrussell
 #antigen theme XsErG/zsh-themes themes/lazyuser
 #antigen theme funky
-antigen theme robbyrussell
+antigen theme bira
 
 
 # Tell antigen that you're done.
