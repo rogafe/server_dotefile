@@ -14,10 +14,10 @@ antigen bundle command-not-found
 antigen bundle zsh-users/zsh-syntax-highlighting
 
 # Load the theme.
-#antigen theme robbyrussell
+antigen theme robbyrussell
 #antigen theme XsErG/zsh-themes themes/lazyuser
 #antigen theme funky
-antigen theme bira
+#antigen theme bira
 
 
 # Tell antigen that you're done.
